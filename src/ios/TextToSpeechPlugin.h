@@ -6,8 +6,9 @@
 //  Copyright © 2020 Chinthan. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
+#import <Cordova/CDV.h>
+
 
 @interface TextToSpeechPlugin : CDVPlugin <AVSpeechSynthesizerDelegate>  {
     AVSpeechSynthesizer* synthesizer;
