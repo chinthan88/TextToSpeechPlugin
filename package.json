@@ -1,0 +1,14 @@
+{
+  "name": "TextToSpeechPlugin",
+  "version": "0.0.1",
+  "description": "Text to Speech Plugin",
+  "cordova": {
+    "id": "chinthan-plugin-texttospeechplugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Chinthan",
+  "license": "MIT"
+}
